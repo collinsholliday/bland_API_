@@ -1,0 +1,19 @@
+
+{
+  "expo": {
+    "name": "SIDEKICK",
+    "slug": "sidekick",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.holliday.sidekick"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ccf189d9-6efd-4188-8500-5120299e53bf"
+      }
+    }
+  }
+}
